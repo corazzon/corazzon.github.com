@@ -13,10 +13,10 @@ title : Tabula rasa
 tagline: tabula rasa 
 author :
   name : corazzon
-  email : blah@email.test
+  email : joeunpark@gmail.com 
   github : corazzon 
-  twitter : username
-  feedburner : feedname
+  twitter : zzonee 
+  feedburner : github/GgbQ
 
 pagenate : 5 
 # The production_url is only used when full-domain names are needed
@@ -92,7 +92,7 @@ JB :
     intensedebate :
       account : 123abc
     facebook :
-      appid : 123
+      appid : 280289375469139 
       num_posts: 5
       width: 580
       colorscheme: light
