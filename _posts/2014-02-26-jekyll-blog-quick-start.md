@@ -36,7 +36,7 @@ $ git push origin master (프로젝트 페이지의 경우 부모가 없는 gh-p
 
 
 #### Jekyll theme 후보였던 것들
- - [Lanyon · A Jekyll theme](http://lanyon.getpoole.com/) - bootstrap을 개발한 [@mdo](https://twitter.com/mdo) 가 만든 테마로 페이스북 스타일의 햄버거? 아이콘이 있는 매뉴를 지원한다.
+ - [Lanyon · A Jekyll theme](http://lanyon.getpoole.com/) - bootstrap을 개발한 [@mdo](https://twitter.com/mdo) 가 만든 테마로 페이스북 스타일의 햄버거? 아이콘이 있는 메뉴를 지원한다.
  - [HPSTR Theme](http://mmistakes.github.io/hpstr-jekyll-theme/) - 포스트별로 배경이미지를 바꿀 수 있다.
 
 
