@@ -2,7 +2,7 @@
 layout: post
 title: "장고로 첫 삽뜨기"
 tagline: "라임키즈 영어동요 유아용 장고 웹앱 개발후기" 
-description: "장고로 첫 삽뜨기 - 라임키즈 영어동요 유아용 장고 웹앱 개발후기"
+description: "장고로 첫 삽 뜨기 - 라임키즈 영어동요 유아용 장고 웹앱 개발후기"
 category: python, django, webapp, 웹앱, 파이썬, 장고 
 tags: [python, django, 파이썬, 장고, fabric, south, PEP8, two scoop of django, android webapp]
 ---
