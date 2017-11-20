@@ -1,16 +1,20 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title 
-#markdown:karmadown
+#markdown: redcarpet
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Tabula rasa 
-tagline: tabula rasa 
+title : 오늘코드 
+tagline: Tabula rasa 
 author :
   name : corazzon
   email : joeunpark@gmail.com 
@@ -18,7 +22,7 @@ author :
   twitter : zzonee 
   feedburner : github/GgbQ
 
-highlighter: pygments
+highlighter: rouge 
 pagenate : 5 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -69,15 +73,16 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  # ASSET_PATH : false
+  ASSET_PATH : /assets/themes/twitter 
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
+  # categories_path : /categories.html
+  # tags_path : /tags.html
+  # atom_path : /atom.xml
   rss_path : /rss.xml
 
   # Settings for comments helper
@@ -85,18 +90,18 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : facebook 
+  #  provider : facebook 
     disqus :
       short_name : tabularasa 
     livefyre :
       site_id : 123
     intensedebate :
       account : 123abc
-    facebook :
-      appid : 280289375469139 
-      num_posts: 5
-      width: 580
-      colorscheme: light
+  #  facebook :
+  #    appid : 280289375469139 
+  #    num_posts: 5
+  #    width: 580
+  #    colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -132,4 +137,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
