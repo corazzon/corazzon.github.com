@@ -2,8 +2,7 @@
 layout: post
 title: "[도서 리뷰] 엑셀만 알아도 할 수 있는 데이터 과학"
 tagline: "이 리뷰는 한빛미디어의 <나는 리뷰어다> 이벤트를 통해 책을 제공받아 작성했습니다. "
-description:"한빛미디어 - 엑셀만 알아도 할 수 있는 데이터 과학" 
-category: "데이터 과학"
+description: "한빛미디어 - 엑셀만 알아도 할 수 있는 데이터 과학" 
 ---
 
 {% include JB/setup %}
