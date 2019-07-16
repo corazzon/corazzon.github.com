@@ -10,6 +10,8 @@ category: 크롤링, 스크랩, crawling, python, request, beautifulsoup
 
 파이썬으로 웹 크롤러 만들기(2판)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ex9JP1iFcnY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <img src="https://i.imgur.com/Z5xRVQH.jpg">
 
