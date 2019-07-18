@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[도서 리뷰] 파이썬 코딩도장"
+title: "[도서 리뷰] 파이썬 코딩 도장"
 tagline: "이 리뷰는 길벗출판사의 리뷰 이벤트를 통해 책을 제공받아 작성했습니다. "
 description: "파이썬 코딩 도장"
 category: python, 파이썬, 길벗, 코딩도장, 판다스, 팬더스, Pandas, 데이터분석
@@ -41,7 +41,7 @@ category: python, 파이썬, 길벗, 코딩도장, 판다스, 팬더스, Pandas,
 아래 링크한 경로에 있는 소스코드를 직접 실행해 보시면서 파이썬과 익숙해 지길바래요.
 
 
-* GitHub 링크 : https://github.com/gilbutITbook/006936
+* GitHub 링크 : [https://github.com/gilbutITbook/006936](https://github.com/gilbutITbook/006936)
 
 * [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 
