@@ -10,6 +10,9 @@ category: python, 파이썬, 길벗, 코딩도장, 판다스, 팬더스, Pandas,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RmQCOLogQxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzCcFDYeJDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 코딩은 공부하는게 아니라 연습한다는 얘기에 강하게 동의하는데요.
 다른 사람들이 수영하는 모습을 아무리 많이 본다해도 내가 직접 물에 들어가보지 않으면 수영을 배우기 힘들어요. 또 다른 사람들이 자전거를 타는 모습을 아무리 많이 본다해도 내가 직접 자전거를 타보고 넘어지지 않으면 프로그래밍을 배우기 어렵다고 생각해요.
 그래서 프로그래밍을 배운다면 실제로 코드를 직접 타이핑해보고 오류가 나고 그 오류를 해결하는 과정에서 프로그래밍을 가장 잘 배울 수 있다고 생각해요.
