@@ -31,7 +31,7 @@ category: python, 파이썬, 판다스, pandas
 
 또, 이 책은 판다스 뿐만 아니라 책의 초반부를 파이썬 기초 문법에 할애하고 있다. 이 책을 통해 파이썬을 처음 배우는 초심자라면 꼭 필요한 파이썬 기초도 함께 배울 수 있다.
 
-<img src="https://i.imgur.com/J4Klqpl.jpg" width="600">
+<img src="https://i.imgur.com/J4Klqpl.jpg" height="600">
 
 책 표지 - 만약 판다곰이 판다스와 관계가 있다면 표지가 판다곰이지 않았을까 싶지만,
 판다곰과 Pandas는 아무런 상관이 없기 때문에 표지에도 판다곰이 등장하지 않는다.
@@ -44,7 +44,7 @@ category: python, 파이썬, 판다스, pandas
 
 
  
-<img src="https://i.imgur.com/TBF8lcJ.jpg" width="600">
+<img src="https://i.imgur.com/TBF8lcJ.jpg" height="600">
 
 목차 - bit.ly의 usa.gov 데이터로 실사례를 분석해 볼 수 있다.
 타임존, 운영체제별 데이터를 집계해보는 예제가 있다.
@@ -55,11 +55,11 @@ MovieLens의 데이터는 영화 평점 데이터를 텍스트와 함께 분석�
 
 이 외에도 미국 농무부의 영양소 정보라든지, 연방선거관리 위원회 데이터베이스를 볼 수 있다.
 
-<img src="https://i.imgur.com/GiAIK2H.jpg" width="600">
+<img src="https://i.imgur.com/GiAIK2H.jpg" height="600">
 
 matplotlib을 pandas 를 통해 더 간단하게 사용할 수 있는 코드를 안내한다.
 
-<img src="https://i.imgur.com/0FdebCl.jpg" width="600">
+<img src="https://i.imgur.com/0FdebCl.jpg" height="600">
 
 유행하는 이름의 트랜드를 시각화로 확인해 볼 수 있다.
 
