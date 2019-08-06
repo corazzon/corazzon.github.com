@@ -9,7 +9,7 @@ category: python, 파이썬, 자료구조, 알고리즘, 코딩인터뷰
 {% include JB/setup %}
 
 
-<img src="https://i.imgur.com/IUZ505e.jpg" height="500">
+<img src="https://i.imgur.com/IUZ505e.jpg" width="375" height="500">
 
 알고리즘은 어렵고 복잡하다는 느낌을 받고 있고 프로그래밍을 해온지 생각보다 오래 되었음에도 알고리즘은 어려운 분야 중 하나다.
 그래서 이번에도 조금이라도 익숙해 지고자 이 책을 읽게 되었다.
@@ -36,12 +36,12 @@ category: python, 파이썬, 자료구조, 알고리즘, 코딩인터뷰
 이 책의 목차를 보면 기본적인 자료구조를 알고리즘과 함께 풀어볼 수 있도록 구성되어 있다.
 
 
-<img src="https://i.imgur.com/dALR4tz.jpg" height="500">
+<img src="https://i.imgur.com/dALR4tz.jpg" width="375" height="500">
 
 그리고 이 책의 좋은 점 중 하나는 테스트코드가 함께 있다는 것이다.
 그래서 테스트코드를 작성하는 습관까지 함께 익힐 수 있게 되어 있다.
 
-<img src="https://i.imgur.com/R3NL5E5.jpg"  height="500">
+<img src="https://i.imgur.com/R3NL5E5.jpg" width="375"  height="500">
 
 읽으면서 가장 마음에 들었던 부분은 `6.2 좋은 습관` 과 `6.3 단위 테스트`부분이었다.
 여기에는 가상환경, 디버깅, 프로파일링, 단위 테스트 내용이 나오는데
