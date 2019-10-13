@@ -33,6 +33,8 @@ category: python, 파이썬, 머신러닝, 기계학습, 싸이킷런, sklearn, 
 
 [rickiepark/machine-learning-with-python-cookbook: 파이썬을 활용한 머신러닝 쿡북 소스코드 : ](https://github.com/rickiepark/machine-learning-with-python-cookbook)
 
+
+<img src="https://i.imgur.com/sL87kEX.png" width="400">
 또, colab 링크가 같이 있어서 링크를 클릭해서 직접 실습을 해볼 수 있는 점도 좋다.
 
 <img src="https://i.imgur.com/WYh1jL7.jpg" width="400">
