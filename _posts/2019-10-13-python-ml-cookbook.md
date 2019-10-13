@@ -35,6 +35,7 @@ category: python, 파이썬, 머신러닝, 기계학습, 싸이킷런, sklearn, 
 
 
 <img src="https://i.imgur.com/sL87kEX.png" width="400">
+
 또, colab 링크가 같이 있어서 링크를 클릭해서 직접 실습을 해볼 수 있는 점도 좋다.
 
 <img src="https://i.imgur.com/WYh1jL7.jpg" width="400">
