@@ -124,3 +124,11 @@ print(kkma.pos(u'JPype 설치 너무 까다롭습니다. 몇 시간을 날렸어
 
     [('JPype', 'OL'), ('설치', 'NNG'), ('너무', 'MAG'), ('까다롭', 'VA'), ('습니다', 'EFN'), ('.', 'SF'), ('몇', 'MDT'), ('시간', 'NNG'), ('을', 'JKO'), ('날리', 'VV'), ('었', 'EPT'), ('어요', 'EFN'), ('.', 'SF')]
 
+## Colab에서 설치
+
+```
+# colab에서 konlpy 설치
+!apt-get update
+!apt-get install g++ openjdk-8-jdk 
+!pip install konlpy
+```
