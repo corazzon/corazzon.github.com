@@ -132,3 +132,15 @@ print(kkma.pos(u'JPype 설치 너무 까다롭습니다. 몇 시간을 날렸어
 !apt-get install g++ openjdk-8-jdk 
 !pip install konlpy
 ```
+
+
+## Colab 에서 Mecab 설치
+
+* [SOMJANG/Mecab-ko-for-Google-Colab: Use Mecab Library(NLP Library) in Google Colab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
+
+```
+! git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git 
+cd Mecab-ko-for-Google-Colab 하여 Mecab-ko-for-Google-Colab directory
+! bash install_mecab-ko_on_colab190912.sh
+https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
+```
