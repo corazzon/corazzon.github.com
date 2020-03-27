@@ -10,7 +10,7 @@ category: 딥러닝, 머신러닝, 수학, 파이썬, python, numpy, keras, CNN,
 ### 알기쉬운 비유와 기초수학으로 시작하는 그로킹 딥러닝
 
 
-<img src="https://i.imgur.com/pVs6xwa.jpg" height="600">
+<img src="https://i.imgur.com/pVs6xwa.jpg" width="450">
 
 책 시작부에 쓰인 책의 의도를 보면 이 책은 내부 동작 과정을 알 수 없는 고수준 라이브러리에 의존하지 않고 간단한 계산을 넘어서는 수학지식이 없는 독자가 책을 소화할 수 있어야 한다고 나와있다.
 
@@ -34,7 +34,7 @@ category: 딥러닝, 머신러닝, 수학, 파이썬, python, numpy, keras, CNN,
 <img src="https://i.imgur.com/hwZ1a6O.jpg" width="600">
 
 
-<img src="https://i.imgur.com/3UYpcXO.jpg" height="600">
+<img src="https://i.imgur.com/3UYpcXO.jpg" width="450">
 
 자연어처리 쪽 내용도 단어 벡터화나 ngram 기법을 라이브러리를 가져다 사용할 수도 있지만 직접 코드로 구현하고 있다.
 
@@ -42,7 +42,7 @@ category: 딥러닝, 머신러닝, 수학, 파이썬, python, numpy, keras, CNN,
 
 초보자도 볼 수 있는 책이라고 되어있긴 한데 파이썬 문법에 대한 이해가 부족하다면 조금 어려운 책이지 않을까 싶다.
 
-<img src="https://i.imgur.com/9E48ChH.jpg" height="600">
+<img src="https://i.imgur.com/9E48ChH.jpg" width="450">
 
 그래서 이 책에서 대상으로 한 초보자를 떠올려보자면 파이썬 기초 문법을 어느정도 이해하고 있고 머신러닝과 딥러닝의 어느정도 기초 지식이 있는 사람이라면 이 책이 더 도움이 될거 같다는 생각이 든다.
 
