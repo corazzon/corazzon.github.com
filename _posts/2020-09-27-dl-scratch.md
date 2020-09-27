@@ -1,3 +1,11 @@
+---
+layout: post
+title: "[도서 리뷰] 처음 시작하는 딥러닝 Deep Learning from Scatch"
+tagline: "이 리뷰는 한빛미디어의 나는 리뷰어다 이벤트를 통해 책을 제공받아 작성했습니다. "
+description: "처음 시작하는 딥러닝 Deep Learning from Scatch"
+category: 파이썬, Python, 딥러닝, PyTorch, 파이토치, numpy, 넘파이
+---
+
 
 <img src="https://i.imgur.com/QPn1MnP.jpg" width="500">
 
