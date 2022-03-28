@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[도서 리뷰] 파이썬 라이브러리를 활용한 머신러닝(번역개정2판)"
-tagline: "이 리뷰는 한빛미디어에서 베타리딩을 통해 도서를 제공받아 작성했습니다. "
+tagline: "이 리뷰는 한빛미디어의 나는 리뷰어다 이벤트를 통해 책을 제공받아 작성했습니다."
 description: "파이썬 라이브러리를 활용한 머신러닝(번역개정2판) 사이킷런 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서"
 category: 머신러닝, 사이킷런, scikit-learn, 기계학습, python, 분류, 회귀, 군집화, 차원축소
 ---
@@ -63,6 +63,6 @@ QuantileTransformer 과 PowerTransformer, 반복 교차 검증에 대한 내용�
 
 이 책은 가장 자주 보고 많은 걸 배울 수 있던 책이었는데 2판도 앞으로 자주 열어보면서 사이킷런을 사용해 보려고 한다.
 
-이 리뷰는 한빛미디어에서 베타리딩을 통해 도서를 제공받아 작성했습니다. 
+이 리뷰는 한빛미디어의 나는 리뷰어다 이벤트를 통해 책을 제공받아 작성했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyldYDj3v1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
