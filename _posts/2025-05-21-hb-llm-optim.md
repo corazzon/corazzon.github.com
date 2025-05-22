@@ -6,7 +6,7 @@ description: "비용은 낮추고 성능은 극대화하는 AI 서비스 구축�
 category: LLM, PEFT, 생성형AI, AI
 ---
 
-"한빛미디어 서평단 <나는리뷰어다> 활동을 위해서 책을 협찬 받아 작성된 서평입니다."
+한빛미디어 서평단 <나는리뷰어다> 활동을 위해서 책을 협찬 받아 작성된 서평입니다.
 
 <img src="https://i.imgur.com/b1aRe6z.jpeg" width="600">
 
